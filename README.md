@@ -13,3 +13,5 @@ answer do you understand? Chunks are  vessels → default, most of the text
 
 Word-level pointers  -> optional, for short, precise answers, so what should describe the words then a capsule 
 and the chunk should that be a vessel?  micro-vessel?
+
+---the LLM it should add some acknoledgement here and the make the evidence answer most of it [evidence here] understand? 
